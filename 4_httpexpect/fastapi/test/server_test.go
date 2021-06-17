@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	url = "http://localhost:9999"
+	url = "http://localhost:8000"
 )
 
 // TestHelloGophers tests a GET with JSON Response
