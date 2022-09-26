@@ -55,3 +55,9 @@ The test folder is a Go mod project. If you experience any error related to the 
 ```
 $ go get github.com/gavv/httpexpect/v2
 ```
+
+## Resources
+
+* https://github.com/gavv/httpexpect
+* https://www.meetup.com/golangmn/events/278773494/
+* https://tech.spscommerce.com/2021/06/11/andre-burgaud-presents.html
